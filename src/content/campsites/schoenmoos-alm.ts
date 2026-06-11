@@ -17,8 +17,7 @@ const schoenmoosAlm: CampsiteConfig = {
   brandKind: "Camping & Vanlife",
   regionLong: "Nationalpark Hohe Tauern · Krimml · Salzburger Land",
 
-  theme: "schiefer",
-  heroVariant: "left",
+  heroVariant: "center",
 
   claim: "Camping mitten im Nationalpark Hohe Tauern",
   claimEmphasis: "Nationalpark Hohe Tauern",
@@ -34,7 +33,7 @@ const schoenmoosAlm: CampsiteConfig = {
     {
       title: "Mitten im Nationalpark",
       text: "Dein Platz liegt in Kehre 7 der Gerlos Alpenstraße, umgeben von Wiesen, Wäldern und der Bergkulisse der Hohen Tauern.",
-      image: { src: `${IMG}/gallery-9cea32c1e2.webp`, alt: "Schönmoos Alm an der Gerlosstraße mit Sonnenterrasse und Bergkulisse" },
+      image: { src: `${IMG}/gallery-9cea32c1e2.webp`, alt: "Schönmoos Alm an der Gerlos Alpenstraße mit Sonnenterrasse und Bergkulisse" },
     },
     {
       title: "Schmankerlküche am Platz",
@@ -61,7 +60,7 @@ const schoenmoosAlm: CampsiteConfig = {
     heading: "Berge, Kehren und eine warme Stube",
     headingEmphasis: "eine warme Stube",
     intro:
-      "Die Schönmoos Alm liegt auf halber Strecke zwischen den weltberühmten Krimmler Wasserfällen und Königsleiten. Mit der Gästekarte gibt es Ermäßigungen in der Region — und nach dem Camptag wartet die Almküche.",
+      "Die Schönmoos Alm liegt auf halber Strecke zwischen dem My Alpenwelt Resort und den weltberühmten Krimmler Wasserfällen. Mit der Gästekarte gibt es Ermäßigungen in der Region — und nach dem Camptag wartet die Almküche.",
   },
 
   awards: [],
@@ -69,7 +68,7 @@ const schoenmoosAlm: CampsiteConfig = {
   saison: { von: "Januar", bis: "Dezember" },
 
   hero: {
-    aerial: { src: `${IMG}/gallery-d7cfa11f4e.webp`, alt: "Luftaufnahme: Stellplätze des Naturcamping Schönmoos Alm an der Gerlosstraße" },
+    aerial: { src: `${IMG}/gallery-d7cfa11f4e.webp`, alt: "Luftaufnahme: Stellplätze des Naturcamping Schönmoos Alm an der Gerlos Alpenstraße" },
   },
 
   breather: {
@@ -85,12 +84,12 @@ const schoenmoosAlm: CampsiteConfig = {
       {
         title: "Sonnenterrasse mit Panorama",
         text: "Im Sommer entspannst du auf der großen Sonnenterrasse mit weitem Blick auf die Berge — Tisch und Bergkulisse inklusive.",
-        image: { src: `${IMG}/gallery-349fc2a578.webp`, alt: "Sonnenterrasse der Schönmoos Alm mit Bergblick" },
+        image: { src: `${IMG}/gallery-cef4a64a5a.webp`, alt: "Schönmoosalm im Sommer mit roter Sonnenterrasse, Schirmen und Bergpanorama der Hohen Tauern" },
       },
       {
         title: "Abende am offenen Kamin",
         text: "Wird es kühl, sitzt du drinnen im urigen Ambiente am offenen Kamin — knisterndes Feuer statt Lagerfeuer am Platz.",
-        image: { src: `${IMG}/gallery-1c73964d20.webp`, alt: "Offener Kamin in der Stube der Schönmoos Alm" },
+        image: { src: `${IMG}/gallery-b0fbec175f.webp`, alt: "Offener Kamin mit knisterndem Feuer in der urigen Gaststube der Schönmoos Alm" },
       },
       {
         title: "Original Schweizer Raclette",
@@ -125,11 +124,6 @@ const schoenmoosAlm: CampsiteConfig = {
         text: "Hüpfburg und Spielplatz liegen direkt unterhalb der Schönmoos Alm — die Kinder spielen, du hast sie im Blick.",
         image: { src: `${IMG}/kids-6136cb859e.webp`, alt: "Spielplatz mit Hüpfburg unterhalb der Schönmoos Alm" },
       },
-      {
-        title: "Almwiese mit Bergblick",
-        text: "Rund um die Alm gibt es viel Wiese und frische Bergluft — Raum genug für einen unbeschwerten Familientag im Grünen.",
-        image: { src: `${IMG}/gallery-1840a2220f.webp`, alt: "Almwiese und Spielbereich rund um die Schönmoos Alm im Sommer" },
-      },
     ],
   },
 
@@ -162,8 +156,8 @@ const schoenmoosAlm: CampsiteConfig = {
   },
 
   booking: {
-    heading: "Dein Stellplatz an der Gerlosstraße",
-    headingEmphasis: "an der Gerlosstraße",
+    heading: "Dein Stellplatz an der Gerlos Alpenstraße",
+    headingEmphasis: "an der Gerlos Alpenstraße",
     intro:
       "Wähle Zeitraum und Personen — wir melden uns mit deiner Verfügbarkeit. Anmeldung und Check-in direkt in der Schönmoos Alm.",
     pricesArePlaceholder: false,
@@ -177,12 +171,11 @@ const schoenmoosAlm: CampsiteConfig = {
   },
 
   kontakt: {
-    coords: { lat: 47.22191, lng: 12.17546 },
-    tel: "+43 6564 828262",
-    telHref: "tel:+436564828262",
+    tel: "+43 6564 8282",
+    telHref: "tel:+4365648282",
     mail: "welcome@schoenmoos-alm.at",
     facebook: "https://www.facebook.com/dieschoenmoosalm/",
-    adresse: "Gerlosstraße 119 · 5743 Krimml · Salzburger Land",
+    adresse: "Oberkrimml 119 · 5743 Krimml · Salzburger Land",
   },
 
   languages: ["DE", "EN"],
