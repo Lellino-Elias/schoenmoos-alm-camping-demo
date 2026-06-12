@@ -171,6 +171,7 @@ const schoenmoosAlm: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 47.22191, lng: 12.17546, approx: true },
     tel: "+43 6564 8282",
     telHref: "tel:+4365648282",
     mail: "welcome@schoenmoos-alm.at",
