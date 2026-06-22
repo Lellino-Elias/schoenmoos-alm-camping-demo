@@ -33,17 +33,17 @@ const schoenmoosAlm: CampsiteConfig = {
     {
       title: "Mitten im Nationalpark",
       text: "Dein Platz liegt in Kehre 7 der Gerlos Alpenstraße, umgeben von Wiesen, Wäldern und der Bergkulisse der Hohen Tauern.",
-      image: { src: `${IMG}/gallery-9cea32c1e2.webp`, alt: "Schönmoos Alm an der Gerlos Alpenstraße mit Sonnenterrasse und Bergkulisse" },
+      image: { src: `${IMG}/gallery-349fc2a578.webp`, alt: "Kehre 7 der Gerlos Alpenstraße mit der Schönmoos Alm und Bergpanorama der Hohen Tauern im Sommer" },
     },
     {
       title: "Schmankerlküche am Platz",
       text: "Regionale Spezialitäten in gemütlicher Almatmosphäre — vom Frühstück bis zum à-la-carte-Abendessen, nur wenige Schritte vom Stellplatz.",
-      image: { src: `${IMG}/gallery-9bf7483c82.webp`, alt: "Deftiger Grillteller in der Schönmoos Alm" },
+      image: { src: `${IMG}/gallery-e78239c974.webp`, alt: "Gäste genießen Raclette und Wein in der gemütlichen Gaststube der Schönmoos Alm" },
     },
     {
       title: "Urig & gemütlich",
       text: "Drinnen erwarten dich Holzstuben, Bar und Kaminecke — der wettersichere Rückzugsort nach dem Tag draußen.",
-      image: { src: `${IMG}/gallery-540e8d8496.webp`, alt: "Urige Gaststube mit Bar in der Schönmoos Alm" },
+      image: { src: `${IMG}/gallery-53e9effc85.webp`, alt: "Blick in die gemütliche Bar der Schönmoos Alm mit Holzmöbeln und warmem Licht" },
     },
   ],
 
@@ -84,7 +84,7 @@ const schoenmoosAlm: CampsiteConfig = {
       {
         title: "Sonnenterrasse mit Panorama",
         text: "Im Sommer entspannst du auf der großen Sonnenterrasse mit weitem Blick auf die Berge — Tisch und Bergkulisse inklusive.",
-        image: { src: `${IMG}/gallery-cef4a64a5a.webp`, alt: "Schönmoosalm im Sommer mit roter Sonnenterrasse, Schirmen und Bergpanorama der Hohen Tauern" },
+        image: { src: `${IMG}/gallery-9cea32c1e2.webp`, alt: "Sonnenterrasse der Schönmoos Alm mit roten Schirmen und Panoramablick auf die Hohen Tauern" },
       },
       {
         title: "Abende am offenen Kamin",
@@ -109,7 +109,7 @@ const schoenmoosAlm: CampsiteConfig = {
       {
         title: "Gemütliche Stuben",
         text: "Rustikales Holz, warmes Licht und urige Deko: drinnen findest du genug Platz für ein kühles Bier oder einen Kaiserschmarren.",
-        image: { src: `${IMG}/gallery-a4dd8b3552.webp`, alt: "Gemütliche Stube mit Bar und rustikaler Holzdeko in der Schönmoos Alm" },
+        image: { src: `${IMG}/gallery-1c73964d20.webp`, alt: "Gäste stoßen an der Bar der Schönmoos Alm mit kühlem Bier an" },
       },
     ],
   },
@@ -122,7 +122,7 @@ const schoenmoosAlm: CampsiteConfig = {
       {
         title: "Spielplatz unter der Alm",
         text: "Hüpfburg und Spielplatz liegen direkt unterhalb der Schönmoos Alm — die Kinder spielen, du hast sie im Blick.",
-        image: { src: `${IMG}/kids-6136cb859e.webp`, alt: "Spielplatz mit Hüpfburg unterhalb der Schönmoos Alm" },
+        image: { src: `${IMG}/gallery-cef4a64a5a.webp`, alt: "Spielplatz mit Hüpfburg und Rutsche unterhalb der Schönmoos Alm im Sommer" },
       },
     ],
   },
@@ -149,7 +149,7 @@ const schoenmoosAlm: CampsiteConfig = {
     moreCount: 20,
     images: [
       { src: `${IMG}/gallery-3279a3afee.webp`, alt: "Schönmoos Alm im Winter vor blauem Himmel" },
-      { src: `${IMG}/gallery-3f3a755835.webp`, alt: "Frisch gemachter Kaiserschmarren in der Schönmoos Alm" },
+      { src: `${IMG}/gallery-dfe524a49f.webp`, alt: "Gesellige Runde beim Anstoßen in der rustikalen Gaststube der Schönmoos Alm" },
       { src: `${IMG}/gallery-f205eb754a.webp`, alt: "Deftiger Schweinsbraten mit Bratkartoffeln in der Schönmoos Alm" },
       { src: `${IMG}/gallery-d397f3ba3d.webp`, alt: "Gemütliche Stube mit Kachelofen in der Schönmoos Alm" },
     ],
