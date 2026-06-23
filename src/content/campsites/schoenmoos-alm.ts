@@ -33,7 +33,7 @@ const schoenmoosAlm: CampsiteConfig = {
     {
       title: "Mitten im Nationalpark",
       text: "Dein Platz liegt in Kehre 7 der Gerlos Alpenstraße, umgeben von Wiesen, Wäldern und der Bergkulisse der Hohen Tauern.",
-      image: { src: `${IMG}/gallery-349fc2a578.webp`, alt: "Kehre 7 der Gerlos Alpenstraße mit der Schönmoos Alm und Bergpanorama der Hohen Tauern im Sommer" },
+      image: { src: `${IMG}/gallery-1840a2220f.webp`, alt: "Schönmoos Alm an Kehre 7 der Gerlos Alpenstraße im Winter mit dem Gipfel der Hohen Tauern dahinter" },
     },
     {
       title: "Schmankerlküche am Platz",
